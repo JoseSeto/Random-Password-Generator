@@ -1,5 +1,12 @@
 // Assignment code here
-
+function generatePassword(){
+  //Select criteria (Function?)
+  //Character limit 8-128
+  //Include lowercase, uppercase, numeric, and/or special characters
+  //validation
+  //Generate
+  //Write to prompt or page
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
